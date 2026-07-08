@@ -54,12 +54,25 @@ I primarily work with **Python, Java, and SQL**, and I'm passionate about solvin
 * Data Structures & Algorithms
 
 ---
+### Connect with me:
 
-## 📫 Connect with Me
+<p align="left">
+<a href="https://www.linkedin.com/in/lakshmi-phanitha-gowrakkavari-98109a307">
+<img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+</a>
 
-* 💼 **LinkedIn:** https://www.linkedin.com/in/lakshmi-phanitha-gowrakkavari-98109a307
-* 💻 **GitHub:** https://github.com/Phanitha-codes
-* 📧 **Email:** [glphanitha@gmail.com](mailto:glphanitha@gmail.com)
+<a href="https://github.com//Phanitha-codes">
+<img src="https://skillicons.dev/icons?i=github" height="40"/>
+</a>
+
+<a href="https://twitter.com/LakshmiPhanitha">
+<img src="https://skillicons.dev/icons?i=twitter" height="40"/>
+</a>
+
+<a href="mailto:glphanitha@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" height="40"/>
+</a>
+</p>
 
 ---
 
