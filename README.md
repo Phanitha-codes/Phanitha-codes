@@ -2,7 +2,7 @@
 
 🎓 **Information Technology Student** | 🤖 **AI & Machine Learning Enthusiast** | 💻 **Software Developer**
 
-I'm an Information Technology student passionate about **Artificial Intelligence, Machine Learning, and Software Development**. I enjoy building intelligent, real-world solutions and continuously expanding my skills through hands-on projects, internships, certifications, and continuous learning.
+I'm an Information Technology student passionate about **Artificial Intelligence, Machine Learning,Prompt Engineering and Software Development**. I enjoy building intelligent, real-world solutions and continuously expanding my skills through hands-on projects, internships, certifications, and continuous learning.
 
 I primarily work with **Python, Java, and SQL**, and I'm passionate about solving real-world problems, developing AI-powered applications, and writing clean, efficient, and scalable code. I'm always eager to explore emerging technologies, contribute to innovative projects, and collaborate with the developer community.
 
