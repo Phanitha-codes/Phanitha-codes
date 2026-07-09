@@ -7,6 +7,8 @@ I'm an Information Technology student passionate about **Artificial Intelligence
 I primarily work with **Python, Java, and SQL**, and I'm passionate about solving real-world problems, developing AI-powered applications, and writing clean, efficient, and scalable code. I'm always eager to explore emerging technologies, contribute to innovative projects, and collaborate with the developer community.
 
 ---
+💼**Portfolio:**
+https://phanitha-portfolio.lovable.app
 
 ## 🚀 Interests
 
